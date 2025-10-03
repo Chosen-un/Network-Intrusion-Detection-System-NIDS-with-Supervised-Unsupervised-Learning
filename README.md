@@ -109,7 +109,6 @@ The models were evaluated on their ability to detect any type of attack traffic.
 | Isolation Forest     | 82.31%   | 
 | 1D-CNN               | 83.18%   | 
 
-![Anomaly Detection Performance Chart](https://i.imgur.com/vHq05sJ.png)
 
 ## Setup and Usage
 
@@ -137,10 +136,11 @@ The project is built using Python 3.11. The required libraries are listed below:
 2.  **Jupyter Notebook:** Open and run the cells in the `Network Intrusion Detection System (NIDS).ipynb` notebook. The notebook is self-contained and will execute all the steps from data loading to model evaluation.
 
 ## File Structure
+'''
 ├── CICIDS2017/
 │   ├── Monday-WorkingHours.pcap_ISCX.csv
 │   ├── Tuesday-WorkingHours.pcap_ISCX.csv
 │   ├── Wednesday-workingHours.pcap_ISCX.csv
 │   └── ... (and other dataset CSV files)
 ├── Classification and detection.ipynb
-└── README.md
+└── README.md '''

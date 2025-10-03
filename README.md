@@ -136,11 +136,11 @@ The project is built using Python 3.11. The required libraries are listed below:
 2.  **Jupyter Notebook:** Open and run the cells in the `Network Intrusion Detection System (NIDS).ipynb` notebook. The notebook is self-contained and will execute all the steps from data loading to model evaluation.
 
 ## File Structure
-'''
+```
 ├── CICIDS2017/
 │   ├── Monday-WorkingHours.pcap_ISCX.csv
 │   ├── Tuesday-WorkingHours.pcap_ISCX.csv
 │   ├── Wednesday-workingHours.pcap_ISCX.csv
 │   └── ... (and other dataset CSV files)
 ├── Classification and detection.ipynb
-└── README.md '''
+└── README.md ```

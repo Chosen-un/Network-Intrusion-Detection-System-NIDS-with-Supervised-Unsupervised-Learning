@@ -127,7 +127,7 @@ The project is built using Python 3.11. The required libraries are listed below:
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Chosen-un/Network-Intrusion-Detection-System-NIDS-with-Supervised-Unsupervised-Learning
     cd <repository-directory>
     ```
 
